@@ -1,5 +1,7 @@
 # pinkterm ♡
 
+![alt text](image.png)
+
 A cute pink-themed setup for Terminal.app on macOS — pastel + hot pink palette,
 kawaii two-line prompt, ASCII welcome banner.
 
@@ -218,9 +220,4 @@ rm -rf ~/.pinkterm
 killall cfprefsd
 ```
 
----
 
-made with ♡ on 2026-06-14
-# pink-terminal
-# pink-terminal
-# pink-terminal
