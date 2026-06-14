@@ -9,9 +9,6 @@ kawaii two-line prompt, ASCII welcome banner.
 
 ## What got built
 
-Everything lives in `~/.pinkterm/` and is sourced from a single line appended to
-`~/.zshrc`. Nothing else in your shell setup was touched.
-
 ```
 ~/.pinkterm/
 ├── init.zsh                  # entry point — sourced from .zshrc
